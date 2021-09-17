@@ -3,5 +3,3 @@ In this ProjectI haveCreated Sign In Page For New Account Holder In Bank. That C
 
 
 
-
-https://github.com/Akhilesh787/SMART-ATM-SYSTEM/issues/1#issue-982982076
