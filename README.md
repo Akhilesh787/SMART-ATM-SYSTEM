@@ -5,7 +5,7 @@ In this Project I haveCreated Sign In Page For New Account Holder In Bank. That 
 ![1](https://user-images.githubusercontent.com/78203066/131372302-96b9f2fc-178d-4a67-9062-ade16db38542.jpeg)
 ![2](https://user-images.githubusercontent.com/78203066/131372312-55a41c34-dfad-4e90-ba44-b031fa419aad.jpeg)
 ![20210918_010135](https://user-images.githubusercontent.com/78203066/133843770-cfb7bfaa-6746-4ac1-886f-33276cecfc5a.jpg)
-![3](https://user-images.githubusercontent.com/78203066/131372453-4938a215-b4bb-4339-af84-d60bbdc26977.jpeg)
+
 ![4](https://user-images.githubusercontent.com/78203066/131372580-a63c05d7-c818-44f5-a53d-377b6826b88c.jpeg)
 ![5](https://user-images.githubusercontent.com/78203066/131372600-d0b4b447-6b7f-4742-a856-bbe33b8bd29e.jpeg)
 ![6](https://user-images.githubusercontent.com/78203066/131372617-692bd700-0d26-4147-bec3-4eb6497a13df.jpeg)
