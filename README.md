@@ -1,5 +1,5 @@
 # SMART-ATM-SYSTEM
-In this ProjectI haveCreated Sign In Page For New Account Holder In Bank. That Contains the Information of Account Holder like Personal Details,PAN number, Aadhaar number etc. With the Help ofJava Swing And Applet.  Database Connection and Table are createdwith the help of MySQL.For Store the Data ofthe Account Holder And their transactions like Withdraw,Deposit,Change Pin.
+In this Project I haveCreated Sign In Page For New Account Holder In Bank. That Contains the Information of Account Holder like Personal Details,PAN number, Aadhaar number etc. With the Help of Java Swing And Applet.  Database Connection and Table are createdwith the help of MySQL.For Store the Data ofthe Account Holder And their transactions like Withdraw,Deposit,Change Pin.
 
 
 ![1](https://user-images.githubusercontent.com/78203066/131372302-96b9f2fc-178d-4a67-9062-ade16db38542.jpeg)
